@@ -1,0 +1,10 @@
+logs/
+out/
+.idea/
+javadoc/
+*.iml
+*.docx
+lib/
+test/
+target/
+database.properties
